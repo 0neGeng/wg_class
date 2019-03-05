@@ -1,0 +1,6 @@
+use_frameworks!
+target 'wg_class_Tests' do
+  pod 'wg_class', :path => '../'
+  
+  
+end
