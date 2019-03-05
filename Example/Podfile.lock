@@ -1,0 +1,16 @@
+PODS:
+  - wg_class (0.1.0)
+
+DEPENDENCIES:
+  - wg_class (from `../`)
+
+EXTERNAL SOURCES:
+  wg_class:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  wg_class: e4a36b61ba1610507673af08cbac444c40b502e6
+
+PODFILE CHECKSUM: 7d49523507ca216f7f56f66eb6d5500e832a750f
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,22 @@
+{
+  "name": "wg_class",
+  "version": "0.1.0",
+  "summary": "A short description of wg_class.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/23380631@qq.com/wg_class",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "23380631@qq.com": "23380631@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/23380631@qq.com/wg_class.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "wg_class/Classes/**/*"
+}
